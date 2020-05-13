@@ -1,3 +1,9 @@
 #producto de (A x B). Entonces, A tiene 6 elementos y B tiene 7 elementos. Por lo tanto, la respuesta es 42.
 
 42.
+
+#codigo
+ a= int(input("longitud de a: ").strip())
+ b= int(input("longitud de b: ").strip())
+ producto=a*b
+ print (producto)
